@@ -1,4 +1,3 @@
-import styles from "./page.module.css";
 import prisma from "./utils/db";
 
 interface Data {
